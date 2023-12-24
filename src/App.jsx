@@ -2,4 +2,4 @@ function App() {
   return <>hi</>;
 }
 
-export default App
+export default App;
